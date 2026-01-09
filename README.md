@@ -18,3 +18,39 @@ Comprehensive evaluation with visualizations
 Prediction API for new requirements
 
 Model persistence for deployment
+
+
+📚 Related Research
+This project implements techniques from:
+
+NLP for Software Engineering
+
+Requirement Classification
+
+Text Mining for Documentation
+
+Machine Learning for SE
+
+Contribution Areas
+Add more ML models
+
+Improve text preprocessing
+
+Create web interface
+
+Add more datasets
+
+Implement deep learning approaches
+
+🔧 Code Structure
+text
+requirement-classifier/
+│
+├── requirement_classifier.py    # Main training script
+├── Dataset.csv                  # Input dataset (not included)
+├── requirement_classifier.pkl   # Saved model (generated)
+├── requirements.txt             # Python dependencies
+├── README.md                    # This file
+└── examples/                    # Example usage scripts
+    ├── predict.py              # Prediction example
+    └── test_requirements.txt   # Sample test cases

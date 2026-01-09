@@ -1,0 +1,401 @@
+Scenario,Requirement,Requirement Type,Author
+The Internet of Objects (IoT) Based Application for Smart City Infrastructure,"Collection and analysis of environmental data (for example temperature, humidity, air pollution)",Functional,Human
+The Internet of Objects (IoT) Based Application for Smart City Infrastructure,"Monitoring, analyzing traffic flow and providing guidance suggestions to reduce traffic congestion",Functional,Human
+The Internet of Objects (IoT) Based Application for Smart City Infrastructure,"In case of emergency, sending instant notifications through fire detection sensors",Functional,Human
+The Internet of Objects (IoT) Based Application for Smart City Infrastructure,"For parking space management, identifying empty parking spaces and providing users to users",Functional,Human
+The Internet of Objects (IoT) Based Application for Smart City Infrastructure,Automatically adjusting lighting and electrical use to optimize energy consumption,Functional,Human
+The Internet of Objects (IoT) Based Application for Smart City Infrastructure,Monitoring air quality and warning the people's potential health risks,Functional,Human
+The Internet of Objects (IoT) Based Application for Smart City Infrastructure,"Using sensor data for water and waste management, ensuring efficient use of resources",Functional,Human
+The Internet of Objects (IoT) Based Application for Smart City Infrastructure,Monitoring and referring to passenger density to increase the efficiency of public transport systems,Functional,Human
+The Internet of Objects (IoT) Based Application for Smart City Infrastructure,"In emergencies, offering earthquake forecasts and warnings through seismic sensors",Functional,Human
+The Internet of Objects (IoT) Based Application for Smart City Infrastructure,Application is integrated with CCTV cameras and security sensors for urban security and automatically detecting events,Functional,Human
+The Internet of Objects (IoT) Based Application for Smart City Infrastructure,Compliance with high safety standards and ensuring data privacy,Nonfunctional,Human
+The Internet of Objects (IoT) Based Application for Smart City Infrastructure,"User interface, easy to comply with easy accessibility and usability standards",Nonfunctional,Human
+The Internet of Objects (IoT) Based Application for Smart City Infrastructure,"System, high accessibility and uninterrupted service to be redundant and scalable",Nonfunctional,Human
+The Internet of Objects (IoT) Based Application for Smart City Infrastructure,The response times of the application are optimized to meet real -time data processing requirements,Nonfunctional,Human
+The Internet of Objects (IoT) Based Application for Smart City Infrastructure,Using a standard communication protocol for all sensors to transmit data in harmony,Nonfunctional,Human
+The Internet of Objects (IoT) Based Application for Smart City Infrastructure,The application regularly performs sensor calibration in order to provide up -to -date and accurate data,Nonfunctional,Human
+The Internet of Objects (IoT) Based Application for Smart City Infrastructure,Data storage and processing infrastructure is capable of reliably processing large data quantities.,Nonfunctional,Human
+The Internet of Objects (IoT) Based Application for Smart City Infrastructure,"Application, backup of user data and creating a separate disaster recovery plan",Nonfunctional,Human
+The Internet of Objects (IoT) Based Application for Smart City Infrastructure,The system has low power consumption for energy efficiency and having smart energy management characteristics,Nonfunctional,Human
+The Internet of Objects (IoT) Based Application for Smart City Infrastructure,"Application, in compliance with local legal regulations and follows privacy policies in data collection processes",Nonfunctional,Human
+Augmented Reality (AR) Supported Virtual Museum Experience,Ensuring that the museum works are exhibited in a virtual environment,Functional,Human
+Augmented Reality (AR) Supported Virtual Museum Experience,Visitors to examine the works interactively through argles or mobile devices.,Functional,Human
+Augmented Reality (AR) Supported Virtual Museum Experience,"In order to give detailed information about the works, text, voice guidance and video content",Functional,Human
+Augmented Reality (AR) Supported Virtual Museum Experience,Providing 360 degree images to allow visitors to examine the works from different perspectives,Functional,Human
+Augmented Reality (AR) Supported Virtual Museum Experience,Providing visitors with playful learning experiences that will allow the opportunity to interact with works,Functional,Human
+Augmented Reality (AR) Supported Virtual Museum Experience,Designing a user -friendly interface to enable visitors to visit the virtual museum easily,Functional,Human
+Augmented Reality (AR) Supported Virtual Museum Experience,"Providing additional materials to visitors who want to get in -depth information by focusing on the works (articles, photo galleries, etc.",Functional,Human
+Augmented Reality (AR) Supported Virtual Museum Experience,Allows visitors to discover certain works or themes by creating personalized tours,Functional,Human
+Augmented Reality (AR) Supported Virtual Museum Experience,To meet the needs of international visitors by offering different language options to visitors,Functional,Human
+Augmented Reality (AR) Supported Virtual Museum Experience,Providing an integrated feedback mechanism for visitors to share their experiences and give feedback,Functional,Human
+Augmented Reality (AR) Supported Virtual Museum Experience,Having a high -performance infrastructure in order to present the AR content in a fluent and real -time way.,Nonfunctional,Human
+Augmented Reality (AR) Supported Virtual Museum Experience,Protecting their privacy by safely hiding the personal data of visitors,Nonfunctional,Human
+Augmented Reality (AR) Supported Virtual Museum Experience,To have a strong infrastructure and a redundant systems to provide high usability and uninterrupted access.,Nonfunctional,Human
+Augmented Reality (AR) Supported Virtual Museum Experience,Having a wide device compatibility for the application to work smoothly on different mobile devices and argues.,Nonfunctional,Human
+Augmented Reality (AR) Supported Virtual Museum Experience,Multimedia that enrich the virtual museum experience to have a wide range of data storage capacity to store and present content,Nonfunctional,Human
+Augmented Reality (AR) Supported Virtual Museum Experience,To have comprehensive analytical and reporting features to analyze visitor traffic and to continuously improve experience,Nonfunctional,Human
+Augmented Reality (AR) Supported Virtual Museum Experience,Optimized design for the application to work with energy efficiency and low battery consumption.,Nonfunctional,Human
+Augmented Reality (AR) Supported Virtual Museum Experience,To meet the needs of visitors who speak different languages by providing multiple language support,Nonfunctional,Human
+Augmented Reality (AR) Supported Virtual Museum Experience,The application of the application in compliance with accessibility standards and supporting the experience of disabled visitors,Nonfunctional,Human
+Augmented Reality (AR) Supported Virtual Museum Experience,Creating an effective communication and support mechanism to collect visitor feedback and make quick feedback,Nonfunctional,Human
+Block chain -based secure voting system,Integration of biometric data for voter authentication,Functional,Human
+Block chain -based secure voting system,Transparently recording of voting operations on the block chain,Functional,Human
+Block chain -based secure voting system,Voters to vote online or offline,Functional,Human
+Block chain -based secure voting system,Automatically and real -time realization of the voting count,Functional,Human
+Block chain -based secure voting system,Monitoring and reporting modules for the authorities to monitor the election process,Functional,Human
+Block chain -based secure voting system,An information platform that provides detailed information about the voters about candidates,Functional,Human
+Block chain -based secure voting system,Protecting the confidentiality and anonymity of the voting process,Functional,Human
+Block chain -based secure voting system,Safety measures that prevent fraud and double voting in the voting process,Functional,Human
+Block chain -based secure voting system,Feedback mechanisms that provide opportunities for voters to verify their votes,Functional,Human
+Block chain -based secure voting system,To realize the voting process on a redundant and safe infrastructure,Functional,Human
+Block chain -based secure voting system,High security and authentication of access to the voting system,Nonfunctional,Human
+Block chain -based secure voting system,Using cryptography standards in block chain technology for data privacy,Nonfunctional,Human
+Block chain -based secure voting system,Having redundant systems for high accessibility and uninterrupted service,Nonfunctional,Human
+Block chain -based secure voting system,Presenting the voting process with a user -friendly interface,Nonfunctional,Human
+Block chain -based secure voting system,"To be able to work smoothly on different devices (computers, smartphones, tablets)",Nonfunctional,Human
+Block chain -based secure voting system,Providing multiple language support and addressing multicultural communities,Nonfunctional,Human
+Block chain -based secure voting system,That data storage and processing processes in the system are in compliance with GDPR and other related data protection regulations.,Nonfunctional,Human
+Block chain -based secure voting system,Low bandwidth and low system requirements for high usability,Nonfunctional,Human
+Block chain -based secure voting system,To comply with accessibility standards to support the voting process of disabled individuals,Nonfunctional,Human
+Block chain -based secure voting system,Creating an effective communication and support mechanism in order to collect users' feedback and make quick feedback,Nonfunctional,Human
+Health and Fitness Application,"Users' health data (heartbeat, number of steps, sleep time, etc.",Functional,Human
+Health and Fitness Application,Creating customized fitness programs and proposing to users,Functional,Human
+Health and Fitness Application,Following and saving users' exercise and activities,Functional,Human
+Health and Fitness Application,Creation of food diaries for nutrition tracking and calorie count,Functional,Human
+Health and Fitness Application,Sending notifications and reminders to support users reach their goals,Functional,Human
+Health and Fitness Application,To convey the health and fitness suggestions of experts to users,Functional,Human
+Health and Fitness Application,Access users to exercise videos and instructions,Functional,Human
+Health and Fitness Application,Visualization of users' health data through graphics and reports,Functional,Human
+Health and Fitness Application,Presenting a community and sharing platform where users can interact with each other,Functional,Human
+Health and Fitness Application,To be able to transmit user location information to health service providers in emergencies,Functional,Human
+Health and Fitness Application,Protecting the privacy of user data and applying appropriate safety measures,Nonfunctional,Human
+Health and Fitness Application,High performance and fast response times,Nonfunctional,Human
+Health and Fitness Application,"To be able to work smoothly on different devices (smartphones, tablets, wearable devices)",Nonfunctional,Human
+Health and Fitness Application,Presentation of the application with a user -friendly interface,Nonfunctional,Human
+Health and Fitness Application,Low battery consumption and energy efficiency of the application,Nonfunctional,Human
+Health and Fitness Application,The application is suitable for the use of disabled individuals,Nonfunctional,Human
+Health and Fitness Application,Storage of user data in a redundant and safe way,Nonfunctional,Human
+Health and Fitness Application,Localization and multiple language support for various language and geographical regions,Nonfunctional,Human
+Health and Fitness Application,Low bandwidth and low system requirements of the application,Nonfunctional,Human
+Health and Fitness Application,Creating an effective communication and support mechanism to collect users' feedback and make quick feedback,Nonfunctional,Human
+Automatic text summary and translation tool,Automatically summarizing texts and emphasizing key points,Functional,Human
+Automatic text summary and translation tool,The ability to translate text between different languages and ensure the level of accuracy,Functional,Human
+Automatic text summary and translation tool,Summarized and translated texts to the user understandable way,Functional,Human
+Automatic text summary and translation tool,Artificial intelligence and machine learning in text summary and translation processes,Functional,Human
+Automatic text summary and translation tool,Summarizing and translation by preserving the originality of texts,Functional,Human
+Automatic text summary and translation tool,To share and save users summarized and translated texts,Functional,Human
+Automatic text summary and translation tool,"Different types of text (articles, news, blogs, etc.",Functional,Human
+Automatic text summary and translation tool,To be able to make the right translation by taking into account the tone of texts and emotional content,Functional,Human
+Automatic text summary and translation tool,To effectively summarize long texts and emphasize important information,Functional,Human
+Automatic text summary and translation tool,Fast and stable performance in automatic translation and summary processes,Functional,Human
+Automatic text summary and translation tool,Ensuring the privacy and security of user data,Nonfunctional,Human
+Automatic text summary and translation tool,Fast and stable performance with high data processing capacity,Nonfunctional,Human
+Automatic text summary and translation tool,Ensuring accessibility and usability of disabled users,Nonfunctional,Human
+Automatic text summary and translation tool,Providing multiple language support suitable for various languages and cultures,Nonfunctional,Human
+Automatic text summary and translation tool,Ensuring the compliance of data storage and processing processes to the relevant legal regulations,Nonfunctional,Human
+Automatic text summary and translation tool,Working with energy efficiency and low battery consumption,Nonfunctional,Human
+Automatic text summary and translation tool,Collecting user feedback and creating a mechanism to make quick feedback,Nonfunctional,Human
+Automatic text summary and translation tool,User -friendly interface and providing easy availability,Nonfunctional,Human
+Automatic text summary and translation tool,Working on mobile and web platforms,Nonfunctional,Human
+Automatic text summary and translation tool,Providing accuracy and consistency in automatic translation and summary processes,Nonfunctional,Human
+Smart Agriculture Application that gives farmers efficiency and profitability,Land analysis and suggestions to increase soil efficiency,Functional,Human
+Smart Agriculture Application that gives farmers efficiency and profitability,Creating and managing irrigation programs using air estimated data,Functional,Human
+Smart Agriculture Application that gives farmers efficiency and profitability,Defining plant diseases and pests and sending warnings to farmers,Functional,Human
+Smart Agriculture Application that gives farmers efficiency and profitability,"Increasing efficiency by optimizing seeds, fertilizers and drug use",Functional,Human
+Smart Agriculture Application that gives farmers efficiency and profitability,Providing suggestions for live animal monitoring and animal welfare,Functional,Human
+Smart Agriculture Application that gives farmers efficiency and profitability,Providing harvest timing suggestions and yield forecasts,Functional,Human
+Smart Agriculture Application that gives farmers efficiency and profitability,Giving information to farmers about product sales by following market prices,Functional,Human
+Smart Agriculture Application that gives farmers efficiency and profitability,Cost calculation and budget creation by providing financial management tools,Functional,Human
+Smart Agriculture Application that gives farmers efficiency and profitability,Providing reminders and guidance for equipment and machinery care,Functional,Human
+Smart Agriculture Application that gives farmers efficiency and profitability,Analyzing the effects of climate change and other environmental factors on farm activities,Functional,Human
+Smart Agriculture Application that gives farmers efficiency and profitability,Compliance with high safety standards by maintaining the privacy of user data,Nonfunctional,Human
+Smart Agriculture Application that gives farmers efficiency and profitability,Working on a high performance and reliable infrastructure,Nonfunctional,Human
+Smart Agriculture Application that gives farmers efficiency and profitability,Providing usability in different geographical regions and in various climatic conditions,Nonfunctional,Human
+Smart Agriculture Application that gives farmers efficiency and profitability,Providing easy accessibility and availability by offering a user -friendly interface,Nonfunctional,Human
+Smart Agriculture Application that gives farmers efficiency and profitability,"Ensuring that data collection, storage and processing processes are in accordance with legal regulations",Nonfunctional,Human
+Smart Agriculture Application that gives farmers efficiency and profitability,Working with energy efficiency and low battery consumption,Nonfunctional,Human
+Smart Agriculture Application that gives farmers efficiency and profitability,Localization and multiple language support for various language and geographical regions,Nonfunctional,Human
+Smart Agriculture Application that gives farmers efficiency and profitability,Compliance with the use of individuals with disabilities and compliance with accessibility standards,Nonfunctional,Human
+Smart Agriculture Application that gives farmers efficiency and profitability,To ensure that the application can work with low bandwidth and low system requirements,Nonfunctional,Human
+Smart Agriculture Application that gives farmers efficiency and profitability,Creating an effective communication and support mechanism to collect users' feedback and make quick feedback,Nonfunctional,Human
+Smart Home System with Voice Command,Controlling household appliances with voice commands,Functional,Human
+Smart Home System with Voice Command,Managing domestic systems with voice commands,Functional,Human
+Smart Home System with Voice Command,Privatization of the ambient settings according to the preferences of the landlord,Functional,Human
+Smart Home System with Voice Command,To recognize and process voice commands correctly,Functional,Human
+Smart Home System with Voice Command,Controlling security systems and other domestic equipment with voice commands,Functional,Human
+Smart Home System with Voice Command,Managing entertainment systems with voice commands,Functional,Human
+Smart Home System with Voice Command,Presenting home information with voice commands,Functional,Human
+Smart Home System with Voice Command,Voice Recognition and Providing Personalized Services,Functional,Human
+Smart Home System with Voice Command,Performing scheduled tasks with voice commands,Functional,Human
+Smart Home System with Voice Command,Integration with other smart home devices and platforms,Functional,Human
+Smart Home System with Voice Command,Compliance with high safety standards and protecting user data,Nonfunctional,Human
+Smart Home System with Voice Command,Providing fast response times,Nonfunctional,Human
+Smart Home System with Voice Command,Recognizing different languages and accents and providing multiple language support,Nonfunctional,Human
+Smart Home System with Voice Command,User -Friendly Interface and Easy Usability,Nonfunctional,Human
+Smart Home System with Voice Command,Working with low bandwidth and low system requirements,Nonfunctional,Human
+Smart Home System with Voice Command,Suitable for the use of individuals with disabilities,Nonfunctional,Human
+Smart Home System with Voice Command,Data processing processes in accordance with legal regulations,Nonfunctional,Human
+Smart Home System with Voice Command,Working with energy efficiency and low battery consumption,Nonfunctional,Human
+Smart Home System with Voice Command,Localization and multiple language support suitable for various geographical regions,Nonfunctional,Human
+Smart Home System with Voice Command,Creating effective communication and support mechanism,Nonfunctional,Human
+Chatbot Support Customer Service Platform,Giving the right answers by understanding customer questions,Functional,Human
+Chatbot Support Customer Service Platform,"Basic Customer Service issues (order tracking, product information, return procedures, etc.",Functional,Human
+Chatbot Support Customer Service Platform,Recording customer demands and transmitting them to the relevant departments,Functional,Human
+Chatbot Support Customer Service Platform,Providing a information base containing frequently asked questions,Functional,Human
+Chatbot Support Customer Service Platform,Application of relevant procedures when necessary for customer authentication,Functional,Human
+Chatbot Support Customer Service Platform,"Different topics (product information, order status, invoice requests, etc.",Functional,Human
+Chatbot Support Customer Service Platform,Recording customer feedback and reporting,Functional,Human
+Chatbot Support Customer Service Platform,Natural Language Understanding and Production with Integrated Language Processing Ability,Functional,Human
+Chatbot Support Customer Service Platform,"Customer requests from various communication channels (message, e-mail, voice call) processing on the same platform",Functional,Human
+Chatbot Support Customer Service Platform,Improving customer experience with artificial intelligence -supported chatbot's continuous learning ability,Functional,Human
+Chatbot Support Customer Service Platform,Compliance with high safety standards and protecting customer data,Nonfunctional,Human
+Chatbot Support Customer Service Platform,High performance and fast response times,Nonfunctional,Human
+Chatbot Support Customer Service Platform,Localization and multiple language support for different language and geographical regions,Nonfunctional,Human
+Chatbot Support Customer Service Platform,Being with a user -friendly interface and easy availability,Nonfunctional,Human
+Chatbot Support Customer Service Platform,Working with low bandwidth and low system requirements,Nonfunctional,Human
+Chatbot Support Customer Service Platform,Compliance with the use of individuals with disabilities and compliance with accessibility standards,Nonfunctional,Human
+Chatbot Support Customer Service Platform,That data storage and processing processes are in accordance with legal regulations,Nonfunctional,Human
+Chatbot Support Customer Service Platform,Working with energy efficiency and low battery consumption,Nonfunctional,Human
+Chatbot Support Customer Service Platform,Creating effective communication and support mechanism in order to collect users' feedback and make quick feedback,Nonfunctional,Human
+Chatbot Support Customer Service Platform,Integration and data synchronization ability with different platforms,Nonfunctional,Human
+Artificial Intelligence Supported Application for Personalized Nutrition and Fitness Guidance,Creating personalized nutrition plans by analyzing users' health data and goals,Functional,Human
+Artificial Intelligence Supported Application for Personalized Nutrition and Fitness Guidance,By monitoring exercise habits and presenting training programs according to their goals,Functional,Human
+Artificial Intelligence Supported Application for Personalized Nutrition and Fitness Guidance,Nutritional content analysis proposing healthy recipes to users,Functional,Human
+Artificial Intelligence Supported Application for Personalized Nutrition and Fitness Guidance,Monitoring calorie burning and physical activity and providing feedback,Functional,Human
+Artificial Intelligence Supported Application for Personalized Nutrition and Fitness Guidance,Providing suggestions by taking into account food allergies or intolerances,Functional,Human
+Artificial Intelligence Supported Application for Personalized Nutrition and Fitness Guidance,Creating appropriate recreation programs by following users' sleep patterns,Functional,Human
+Artificial Intelligence Supported Application for Personalized Nutrition and Fitness Guidance,Using users' water consumption and sending reminders,Functional,Human
+Artificial Intelligence Supported Application for Personalized Nutrition and Fitness Guidance,Saying personal health data safely storage and securing privacy,Functional,Human
+Artificial Intelligence Supported Application for Personalized Nutrition and Fitness Guidance,Providing graphics and statistics to follow the progress of users,Functional,Human
+Artificial Intelligence Supported Application for Personalized Nutrition and Fitness Guidance,Offering rewards and incentives according to users' diet and exercise habits,Functional,Human
+Artificial Intelligence Supported Application for Personalized Nutrition and Fitness Guidance,Protecting the privacy of user data and compliance with high safety standards,Nonfunctional,Human
+Artificial Intelligence Supported Application for Personalized Nutrition and Fitness Guidance,High performance and fast response times,Nonfunctional,Human
+Artificial Intelligence Supported Application for Personalized Nutrition and Fitness Guidance,Recognizing different languages and accents and providing multiple language support,Nonfunctional,Human
+Artificial Intelligence Supported Application for Personalized Nutrition and Fitness Guidance,Providing easy availability by presented with a user -friendly interface,Nonfunctional,Human
+Artificial Intelligence Supported Application for Personalized Nutrition and Fitness Guidance,Working with low bandwidth and low system requirements,Nonfunctional,Human
+Artificial Intelligence Supported Application for Personalized Nutrition and Fitness Guidance,Compliance with the use of individuals with disabilities and compliance with accessibility standards,Nonfunctional,Human
+Artificial Intelligence Supported Application for Personalized Nutrition and Fitness Guidance,Ensuring that data storage and processing processes are in accordance with legal regulations,Nonfunctional,Human
+Artificial Intelligence Supported Application for Personalized Nutrition and Fitness Guidance,Working with energy efficiency and low battery consumption,Nonfunctional,Human
+Artificial Intelligence Supported Application for Personalized Nutrition and Fitness Guidance,Localization and multiple language support suitable for various geographical regions,Nonfunctional,Human
+Artificial Intelligence Supported Application for Personalized Nutrition and Fitness Guidance,Creating an effective communication and support mechanism to collect users' feedback and make quick feedback,Nonfunctional,Human
+Data Analysis Platform for Disaster Intervention and Aid Coordination,"Ability to collect, analyze and mapping disaster data",Functional,Human
+Data Analysis Platform for Disaster Intervention and Aid Coordination,Automatically prioritizing and directing emergency assistance requests,Functional,Human
+Data Analysis Platform for Disaster Intervention and Aid Coordination,Sending instant notifications to teams and organizations in the field,Functional,Human
+Data Analysis Platform for Disaster Intervention and Aid Coordination,"Resources in disaster regions (human, material, medical aid, etc.",Functional,Human
+Data Analysis Platform for Disaster Intervention and Aid Coordination,The ability to create and implement disaster intervention plans,Functional,Human
+Data Analysis Platform for Disaster Intervention and Aid Coordination,Providing real -time data access to emergency command centers,Functional,Human
+Data Analysis Platform for Disaster Intervention and Aid Coordination,Analysis of help and information from social media and other online platforms,Functional,Human
+Data Analysis Platform for Disaster Intervention and Aid Coordination,Planning and monitoring of post -disaster improvement and rehabilitation studies,Functional,Human
+Data Analysis Platform for Disaster Intervention and Aid Coordination,Public awareness raising awareness and training materials on disasters,Functional,Human
+Data Analysis Platform for Disaster Intervention and Aid Coordination,Monitoring and evaluating disaster intervention processes with data analysis and reporting tools,Functional,Human
+Data Analysis Platform for Disaster Intervention and Aid Coordination,Data storage and processing in accordance with high safety standards,Nonfunctional,Human
+Data Analysis Platform for Disaster Intervention and Aid Coordination,Working on a high performance and reliable infrastructure,Nonfunctional,Human
+Data Analysis Platform for Disaster Intervention and Aid Coordination,Use in various geographical regions and in different network conditions,Nonfunctional,Human
+Data Analysis Platform for Disaster Intervention and Aid Coordination,Presentation with a user -friendly interface and easy accessibility,Nonfunctional,Human
+Data Analysis Platform for Disaster Intervention and Aid Coordination,Ensuring the compliance of data collection and processing processes to the relevant legal regulations,Nonfunctional,Human
+Data Analysis Platform for Disaster Intervention and Aid Coordination,Working with energy efficiency and low system requirements,Nonfunctional,Human
+Data Analysis Platform for Disaster Intervention and Aid Coordination,Addressing different user profiles by providing multiple language support,Nonfunctional,Human
+Data Analysis Platform for Disaster Intervention and Aid Coordination,Compliance with the use of individuals with disabilities and compliance with accessibility standards,Nonfunctional,Human
+Data Analysis Platform for Disaster Intervention and Aid Coordination,Low bandwidth on mobile devices to work stable with a width,Nonfunctional,Human
+Data Analysis Platform for Disaster Intervention and Aid Coordination,Fast and effective communication and support mechanisms,Nonfunctional,Human
+Energy efficiency improvement application for industrial enterprises,An interface should be provided in which users can enter the energy consumption information into the system,Functional,ChatGpt
+Energy efficiency improvement application for industrial enterprises,A special area should be created to follow energy efficiency projects in the database.,Functional,ChatGpt
+Energy efficiency improvement application for industrial enterprises,Graphical reporting feature should be found for users to make data analysis among different projects.,Functional,ChatGpt
+Energy efficiency improvement application for industrial enterprises,Planning and calendar capabilities should be achieved to implement energy efficiency measures,Functional,ChatGpt
+Energy efficiency improvement application for industrial enterprises,Budget and resource management modules should be provided in order to ensure that users can financially monitor their energy efficiency projects,Functional,ChatGpt
+Energy efficiency improvement application for industrial enterprises,The system should support data intake in order to monitor energy consumption in real time.,Functional,ChatGpt
+Energy efficiency improvement application for industrial enterprises,Notification and update mechanisms should be presented to monitor the progress and results of energy efficiency projects,Functional,ChatGpt
+Energy efficiency improvement application for industrial enterprises,"In order to evaluate the project performance, the capabilities of creating and sharing special report should be presented to users",Functional,ChatGpt
+Energy efficiency improvement application for industrial enterprises,The effectiveness of energy efficiency measures should be evaluated by having data analysis and estimation skills.,Functional,ChatGpt
+Energy efficiency improvement application for industrial enterprises,Access must be provided to monitor and evaluate energy efficiency projects from mobile devices.,Functional,ChatGpt
+Energy efficiency improvement application for industrial enterprises,The system must ensure the security of user data and comply with privacy standards,Nonfunctional,ChatGpt
+Energy efficiency improvement application for industrial enterprises,It should improve experience with an interface that users can easily use,Nonfunctional,ChatGpt
+Energy efficiency improvement application for industrial enterprises,It should work efficiently by offering high performance and quick response times.,Nonfunctional,ChatGpt
+Energy efficiency improvement application for industrial enterprises,"It should be used on different platforms (Windows, MacOS, Linux)",Nonfunctional,ChatGpt
+Energy efficiency improvement application for industrial enterprises,It should be suitable for low internet connections to work stable.,Nonfunctional,ChatGpt
+Energy efficiency improvement application for industrial enterprises,Multiple language support should be offered to address a wide audience.,Nonfunctional,ChatGpt
+Energy efficiency improvement application for industrial enterprises,User account security should be provided with a strong authentication system,Nonfunctional,ChatGpt
+Energy efficiency improvement application for industrial enterprises,It should be scaled in such a way that it can be easily adapted to increasing demands.,Nonfunctional,ChatGpt
+Energy efficiency improvement application for industrial enterprises,User data should be backed regularly and stored safely,Nonfunctional,ChatGpt
+Energy efficiency improvement application for industrial enterprises,Regular updates should be made to adapt to technological advances,Nonfunctional,ChatGpt
+Online Education Platform Development and Student Monitoring System,A platform should be presented in which users can access interactive course content on various subjects.,Functional,ChatGpt
+Online Education Platform Development and Student Monitoring System,Live and registered courses should be organized and presented.,Functional,ChatGpt
+Online Education Platform Development and Student Monitoring System,Exams and assignments should be created and evaluated to monitor student progress.,Functional,ChatGpt
+Online Education Platform Development and Student Monitoring System,Interactive discussion forums and group studies should be presented to students,Functional,ChatGpt
+Online Education Platform Development and Student Monitoring System,Students should be given the opportunity to create special learning plans and provide personalized content,Functional,ChatGpt
+Online Education Platform Development and Student Monitoring System,Training materials should be presented in different formats and must be accessible,Functional,ChatGpt
+Online Education Platform Development and Student Monitoring System,Feedback should be provided to teachers by following student performance and participation.,Functional,ChatGpt
+Online Education Platform Development and Student Monitoring System,Guidance and support should be provided to students to achieve their learning goals.,Functional,ChatGpt
+Online Education Platform Development and Student Monitoring System,Easy -to -use interface should be provided for teachers to regulate and update the course content.,Functional,ChatGpt
+Online Education Platform Development and Student Monitoring System,Messaging and video conference tools should be presented to facilitate student-teacher communication,Functional,ChatGpt
+Online Education Platform Development and Student Monitoring System,The system should provide an uninterrupted educational experience by providing high usability.,Nonfunctional,ChatGpt
+Online Education Platform Development and Student Monitoring System,Strict security measures should be taken for data safety and privacy and appropriate encryption methods should be used.,Nonfunctional,ChatGpt
+Online Education Platform Development and Student Monitoring System,User -friendly interface should be improved by the user experience,Nonfunctional,ChatGpt
+Online Education Platform Development and Student Monitoring System,"Software should be available on different devices, so that students can access access using the device they want.",Nonfunctional,ChatGpt
+Online Education Platform Development and Student Monitoring System,The system should perform stable even at low internet speeds.,Nonfunctional,ChatGpt
+Online Education Platform Development and Student Monitoring System,A wide audience should be accessible by offering content in various languages.,Nonfunctional,ChatGpt
+Online Education Platform Development and Student Monitoring System,Users should be provided with a strong security mechanism in authentication processes.,Nonfunctional,ChatGpt
+Online Education Platform Development and Student Monitoring System,The system should be easily adapted to increasing user demands,Nonfunctional,ChatGpt
+Online Education Platform Development and Student Monitoring System,"For the safety of user data, it should be regularly backed up and protected",Nonfunctional,ChatGpt
+Online Education Platform Development and Student Monitoring System,Software should be updated regularly to adapt to technological developments,Nonfunctional,ChatGpt
+Appointment Planning System,Providing an interface and appointment requests where users can make an appointment,Functional,ChatGpt
+Appointment Planning System,Creating and updating appointment calendar for various service providers,Functional,ChatGpt
+Appointment Planning System,"Filtering users' appointment requests according to history, time and service type",Functional,ChatGpt
+Appointment Planning System,Giving the authority to approve or reject users' appointment requests,Functional,ChatGpt
+Appointment Planning System,Allow users to view appointment details and dates,Functional,ChatGpt
+Appointment Planning System,Providing the opportunity to manage the free time and capacity of service providers,Functional,ChatGpt
+Appointment Planning System,Information with Appointment reminders and notifications,Functional,ChatGpt
+Appointment Planning System,ACCEPTING AND MANAGING USERS OF USERS FOR THE CANCEL Cancellation and Change of Appointment,Functional,ChatGpt
+Appointment Planning System,Users can view the appointment history and future appointments,Functional,ChatGpt
+Appointment Planning System,The possibility of creating reports about the appointments and revenues of service providers,Functional,ChatGpt
+Appointment Planning System,The system must protect user data in accordance with safety standards and ensure privacy,Nonfunctional,ChatGpt
+Appointment Planning System,User -friendly interface should improve the user experience,Nonfunctional,ChatGpt
+Appointment Planning System,Software should provide high performance and low delay times,Nonfunctional,ChatGpt
+Appointment Planning System,"The system should be available on different devices (computers, tablets, smartphones)",Nonfunctional,ChatGpt
+Appointment Planning System,Software should be able to work stable even at low internet connection speeds.,Nonfunctional,ChatGpt
+Appointment Planning System,The system should address a wide audience by providing multiple language support.,Nonfunctional,ChatGpt
+Appointment Planning System,Users should be provided with a strong security mechanism in authorization and authentication processes.,Nonfunctional,ChatGpt
+Appointment Planning System,The software should be scaled and can be easily adapted to increasing user demands.,Nonfunctional,ChatGpt
+Appointment Planning System,User data should be regularly backup and stored safely,Nonfunctional,ChatGpt
+Appointment Planning System,The software should be updated regularly and compatible with technological progress,Nonfunctional,ChatGpt
+Pet Maintenance Application,Providing an interface in which users can create the profile of pets,Functional,ChatGpt
+Pet Maintenance Application,Appointment Planning and Reminder System for Domestic Animals' Health Tracking,Functional,ChatGpt
+Pet Maintenance Application,Nutrition and exercise programs for users to create the opportunity to create exercise programs,Functional,ChatGpt
+Pet Maintenance Application,Digital storage and access to veterinary health records,Functional,ChatGpt
+Pet Maintenance Application,Providing information about veterinary clinics and pet care services close to pet owners,Functional,ChatGpt
+Pet Maintenance Application,Monitoring and saving daily activities of pets,Functional,ChatGpt
+Pet Maintenance Application,Managing the special needs of users' pets such as hair loss and weight control,Functional,ChatGpt
+Pet Maintenance Application,Vaccination tracking of pets and keeping the health history up to date,Functional,ChatGpt
+Pet Maintenance Application,Creating a shopping list for users for pets and providing online purchase,Functional,ChatGpt
+Pet Maintenance Application,Creating a community and forum in which users can share their pets,Functional,ChatGpt
+Pet Maintenance Application,The system must storage user data safely and comply with privacy standards.,Nonfunctional,ChatGpt
+Pet Maintenance Application,Software should be easily available with a user -friendly interface,Nonfunctional,ChatGpt
+Pet Maintenance Application,The system should provide high performance and quick response times,Nonfunctional,ChatGpt
+Pet Maintenance Application,"Software should be able to operate on different platforms (web, mobile)",Nonfunctional,ChatGpt
+Pet Maintenance Application,The system should be able to work stable even at low internet connection speeds.,Nonfunctional,ChatGpt
+Pet Maintenance Application,Software should appeal to a wide audience by providing multiple language support.,Nonfunctional,ChatGpt
+Pet Maintenance Application,A strong authentication system should be provided for users' account security,Nonfunctional,ChatGpt
+Pet Maintenance Application,The system should be scaled and can be easily adapted to increasing user demands.,Nonfunctional,ChatGpt
+Pet Maintenance Application,User data should be regularly backup and stored safely,Nonfunctional,ChatGpt
+Pet Maintenance Application,The software should be updated regularly and compatible with technological progress,Nonfunctional,ChatGpt
+Music Therapy Supported Mental Health Implementation Application,Access to customized music therapy sessions for users' mental health needs,Functional,ChatGpt
+Music Therapy Supported Mental Health Implementation Application,Automatically proposing and editing music therapy sessions according to users' emotional status,Functional,ChatGpt
+Music Therapy Supported Mental Health Implementation Application,Creating progress reports to follow users' mental health development,Functional,ChatGpt
+Music Therapy Supported Mental Health Implementation Application,Providing access to various types of music and therapy techniques and making suggestions according to users' preferences,Functional,ChatGpt
+Music Therapy Supported Mental Health Implementation Application,"Creating special music therapy sessions for users for mental health problems such as stress, anxiety or depression",Functional,ChatGpt
+Music Therapy Supported Mental Health Implementation Application,Providing a feedback mechanism following users' mood to increase the effect of music therapy,Functional,ChatGpt
+Music Therapy Supported Mental Health Implementation Application,Providing a platform where users can interact with therapists or other users,Functional,ChatGpt
+Music Therapy Supported Mental Health Implementation Application,Allows users to integrate their therapy sessions into their personal calendars,Functional,ChatGpt
+Music Therapy Supported Mental Health Implementation Application,Providing users' music therapy sessions through the application and providing the opportunity to re -access,Functional,ChatGpt
+Music Therapy Supported Mental Health Implementation Application,Providing informative content and resources to support users' mental health improvement processes,Functional,ChatGpt
+Music Therapy Supported Mental Health Implementation Application,The system must storage user data safely and comply with privacy standards.,Nonfunctional,ChatGpt
+Music Therapy Supported Mental Health Implementation Application,Software should be easily available with a user -friendly interface,Nonfunctional,ChatGpt
+Music Therapy Supported Mental Health Implementation Application,The system should provide high performance and quick response times,Nonfunctional,ChatGpt
+Music Therapy Supported Mental Health Implementation Application,"Software should be able to operate on different platforms (web, mobile)",Nonfunctional,ChatGpt
+Music Therapy Supported Mental Health Implementation Application,The system should be able to work stable even at low internet connection speeds.,Nonfunctional,ChatGpt
+Music Therapy Supported Mental Health Implementation Application,Software should appeal to a wide audience by providing multiple language support.,Nonfunctional,ChatGpt
+Music Therapy Supported Mental Health Implementation Application,A strong authentication system should be provided for users' account security,Nonfunctional,ChatGpt
+Music Therapy Supported Mental Health Implementation Application,The system should be scaled and can be easily adapted to increasing user demands.,Nonfunctional,ChatGpt
+Music Therapy Supported Mental Health Implementation Application,User data should be regularly backup and stored safely,Nonfunctional,ChatGpt
+Music Therapy Supported Mental Health Implementation Application,The software should be updated regularly and compatible with technological progress,Nonfunctional,ChatGpt
+Social Donation and Help Collection Mobile Application,A campaign list should be provided where users can participate in social donation and charity campaigns,Functional,ChatGpt
+Social Donation and Help Collection Mobile Application,The system should offer a payment integration that users can donate through credit card or other payment methods.,Functional,ChatGpt
+Social Donation and Help Collection Mobile Application,Visual feedback should be provided such as progress rods or graphics showing the progress of donation campaigns.,Functional,ChatGpt
+Social Donation and Help Collection Mobile Application,Social networking feature should be provided in order to share donation campaigns integrated with social media accounts.,Functional,ChatGpt
+Social Donation and Help Collection Mobile Application,The system should offer a search and filtering feature where users can filter the aid areas that will be donated according to categories.,Functional,ChatGpt
+Social Donation and Help Collection Mobile Application,The ability to create a profile in which users can watch donated campaigns and donation history should be provided.,Functional,ChatGpt
+Social Donation and Help Collection Mobile Application,A administrator panel must be provided to the campaign holders to organize and manage donation campaigns.,Functional,ChatGpt
+Social Donation and Help Collection Mobile Application,The system should present a notification system to send up -to -date notifications and announcements about campaigns.,Functional,ChatGpt
+Social Donation and Help Collection Mobile Application,Users must have access to a communication and support system to ask questions about donation campaigns and get information about donation campaigns.,Functional,ChatGpt
+Social Donation and Help Collection Mobile Application,The system should provide data analysis and reporting features to monitor and report the impact of donation campaigns.,Functional,ChatGpt
+Social Donation and Help Collection Mobile Application,The system must ensure the privacy of user data and comply with safety standards,Nonfunctional,ChatGpt
+Social Donation and Help Collection Mobile Application,Software should be easily available with a user -friendly interface,Nonfunctional,ChatGpt
+Social Donation and Help Collection Mobile Application,The system should be carried out quickly and effectively.,Nonfunctional,ChatGpt
+Social Donation and Help Collection Mobile Application,"Software should be available on different devices (mobile phones, tablets)",Nonfunctional,ChatGpt
+Social Donation and Help Collection Mobile Application,The system should be able to work stable even at low internet connection speeds.,Nonfunctional,ChatGpt
+Social Donation and Help Collection Mobile Application,Software should appeal to a wide audience by providing multiple language support.,Nonfunctional,ChatGpt
+Social Donation and Help Collection Mobile Application,A strong authentication system should be provided for users' account security,Nonfunctional,ChatGpt
+Social Donation and Help Collection Mobile Application,The system should be scaled and can be easily adapted to increasing user demands.,Nonfunctional,ChatGpt
+Social Donation and Help Collection Mobile Application,User data should be regularly backup and stored safely,Nonfunctional,ChatGpt
+Social Donation and Help Collection Mobile Application,The software should be updated regularly and compatible with technological progress,Nonfunctional,ChatGpt
+Smart Transportation System Optimization and Road Traffic Management Application,A map integration should be provided where users can monitor the traffic density and get alternative routes.,Functional,ChatGpt
+Smart Transportation System Optimization and Road Traffic Management Application,The system should offer a public transport integration showing the expedition times and stops of public transportation vehicles.,Functional,ChatGpt
+Smart Transportation System Optimization and Road Traffic Management Application,A planning tool should be provided where users can plan their journeys and see the estimated arrival time on the routes they want to travel.,Functional,ChatGpt
+Smart Transportation System Optimization and Road Traffic Management Application,The system must provide a traffic management system that optimizes signaling and synchronization of lights to reduce traffic density.,Functional,ChatGpt
+Smart Transportation System Optimization and Road Traffic Management Application,"A notification system should be provided where users can get instant information about traffic accidents, road works and other obstacles.",Functional,ChatGpt
+Smart Transportation System Optimization and Road Traffic Management Application,The system should provide a vehicle and service guidance feature that will help users find public transportation and parking spaces.,Functional,ChatGpt
+Smart Transportation System Optimization and Road Traffic Management Application,A driver information and training module should be provided to encourage users to drive in accordance with the traffic rules.,Functional,ChatGpt
+Smart Transportation System Optimization and Road Traffic Management Application,The system should provide an weather integration in order to create safe and optimized travel routes by taking into account the weather conditions and road conditions.,Functional,ChatGpt
+Smart Transportation System Optimization and Road Traffic Management Application,A traffic monitoring feature should be provided where users can monitor traffic cameras and live traffic flows,Functional,ChatGpt
+Smart Transportation System Optimization and Road Traffic Management Application,The system should analyze users' travel history and preferences and offer personalized travel suggestions,Functional,ChatGpt
+Smart Transportation System Optimization and Road Traffic Management Application,The system must ensure the security of user data and comply with privacy standards,Nonfunctional,ChatGpt
+Smart Transportation System Optimization and Road Traffic Management Application,Software should be easily available with a user -friendly interface,Nonfunctional,ChatGpt
+Smart Transportation System Optimization and Road Traffic Management Application,The system should provide high performance and quick response times,Nonfunctional,ChatGpt
+Smart Transportation System Optimization and Road Traffic Management Application,"Software should be available on different devices (mobile phones, tablets)",Nonfunctional,ChatGpt
+Smart Transportation System Optimization and Road Traffic Management Application,The system should be able to work stable even at low internet connection speeds.,Nonfunctional,ChatGpt
+Smart Transportation System Optimization and Road Traffic Management Application,Software should appeal to a wide audience by providing multiple language support.,Nonfunctional,ChatGpt
+Smart Transportation System Optimization and Road Traffic Management Application,A strong authentication system should be provided for users' account security,Nonfunctional,ChatGpt
+Smart Transportation System Optimization and Road Traffic Management Application,The system should be scaled and can be easily adapted to increasing user demands.,Nonfunctional,ChatGpt
+Smart Transportation System Optimization and Road Traffic Management Application,User data should be regularly backup and stored safely,Nonfunctional,ChatGpt
+Smart Transportation System Optimization and Road Traffic Management Application,The software should be updated regularly and compatible with technological progress,Nonfunctional,ChatGpt
+Virtual Speech Practical Platform Supporting Language Learning,A speech platform should be provided in which users can do virtual speech practices in different languages.,Functional,ChatGpt
+Virtual Speech Practical Platform Supporting Language Learning,The system should offer a speech environment that allows users to improve their language skills in real time.,Functional,ChatGpt
+Virtual Speech Practical Platform Supporting Language Learning,Users should be provided with a matching algorithm where they can find speaking partners in accordance with different language levels and interests.,Functional,ChatGpt
+Virtual Speech Practical Platform Supporting Language Learning,The system should provide a feedback mechanism to help users identify and correct their mistakes while practicing speech.,Functional,ChatGpt
+Virtual Speech Practical Platform Supporting Language Learning,A subject library should be provided where users can choose various topics and scenarios to practice speech.,Functional,ChatGpt
+Virtual Speech Practical Platform Supporting Language Learning,The system should follow personalized progress reports by following the language skills of users.,Functional,ChatGpt
+Virtual Speech Practical Platform Supporting Language Learning,A voice recording and evaluation feature should be provided where users can record voice recording and record speech practice performances.,Functional,ChatGpt
+Virtual Speech Practical Platform Supporting Language Learning,The system should provide an offline mode to make users can practice speaking online or offline.,Functional,ChatGpt
+Virtual Speech Practical Platform Supporting Language Learning,Interactive language games and activities should be presented to improve the language skills of users.,Functional,ChatGpt
+Virtual Speech Practical Platform Supporting Language Learning,The system should send reminders at certain time intervals for users' speech practices.,Functional,ChatGpt
+Virtual Speech Practical Platform Supporting Language Learning,The system must protect user data in accordance with privacy standards,Nonfunctional,ChatGpt
+Virtual Speech Practical Platform Supporting Language Learning,Software should be easily accessible with a user -friendly interface,Nonfunctional,ChatGpt
+Virtual Speech Practical Platform Supporting Language Learning,The system should provide users to experience a smooth experience with fast response times.,Nonfunctional,ChatGpt
+Virtual Speech Practical Platform Supporting Language Learning,"Software should be able to operate on different devices (web, mobile)",Nonfunctional,ChatGpt
+Virtual Speech Practical Platform Supporting Language Learning,The system should be able to work stable even at low internet connection speeds.,Nonfunctional,ChatGpt
+Virtual Speech Practical Platform Supporting Language Learning,Software should appeal to a wide audience by providing multiple language support.,Nonfunctional,ChatGpt
+Virtual Speech Practical Platform Supporting Language Learning,A strong authentication system should be provided for users' account security,Nonfunctional,ChatGpt
+Virtual Speech Practical Platform Supporting Language Learning,The system should be scaled and can be easily adapted to increasing user demands.,Nonfunctional,ChatGpt
+Virtual Speech Practical Platform Supporting Language Learning,User data should be regularly backup and stored safely,Nonfunctional,ChatGpt
+Virtual Speech Practical Platform Supporting Language Learning,The software should be updated regularly and compatible with technological progress,Nonfunctional,ChatGpt
+Travel Planning and Guidance Application,A reservation system should be provided where users can book the hotel according to travel destinations and dates.,Functional,ChatGpt
+Travel Planning and Guidance Application,The system should offer a travel planning tool where users can create and plan travel routes.,Functional,ChatGpt
+Travel Planning and Guidance Application,A navigation feature should be provided in order to follow the routes with map integration during travel.,Functional,ChatGpt
+Travel Planning and Guidance Application,The system should offer users with weather forecasts and travel warnings about their travels.,Functional,ChatGpt
+Travel Planning and Guidance Application,A guidance and discovery department should be provided where users can learn about travel destinations and get local suggestions.,Functional,ChatGpt
+Travel Planning and Guidance Application,The system should provide a social media integration where users can share their trips and share their experiences with other users.,Functional,ChatGpt
+Travel Planning and Guidance Application,"A local reconnaissance guide should be presented to users who can get suggestions such as events, restaurants and touristic places for their travels.",Functional,ChatGpt
+Travel Planning and Guidance Application,The system must provide a budget tracking and expenditure management tool to help users manage travel budgets.,Functional,ChatGpt
+Travel Planning and Guidance Application,"A document management feature where users can digitally store travel documents (tickets, hotel reservations, visa information, etc.",Functional,ChatGpt
+Travel Planning and Guidance Application,The system should provide a note and reminder tool in which users can take notes about their travel and set reminders.,Functional,ChatGpt
+Travel Planning and Guidance Application,The system must protect the privacy of user data and comply with safety standards,Nonfunctional,ChatGpt
+Travel Planning and Guidance Application,Software should be easily available with a user -friendly interface,Nonfunctional,ChatGpt
+Travel Planning and Guidance Application,The system should provide users to experience a smooth experience with fast response times.,Nonfunctional,ChatGpt
+Travel Planning and Guidance Application,"Software should be available on different devices (web, mobile)",Nonfunctional,ChatGpt
+Travel Planning and Guidance Application,The system should be able to work stable even at low internet connection speeds.,Nonfunctional,ChatGpt
+Travel Planning and Guidance Application,Software should appeal to a wide audience by providing multiple language support.,Nonfunctional,ChatGpt
+Travel Planning and Guidance Application,A strong authentication system should be provided for users' account security,Nonfunctional,ChatGpt
+Travel Planning and Guidance Application,The system should be scaled and can be easily adapted to increasing user demands.,Nonfunctional,ChatGpt
+Travel Planning and Guidance Application,User data should be regularly backup and stored safely,Nonfunctional,ChatGpt
+Travel Planning and Guidance Application,The software should be updated regularly and compatible with technological progress,Nonfunctional,ChatGpt
+Online Music and Concert Experience Platform,A concert broadcasting platform should be provided where users can access live broadcast concerts by various artists.,Functional,ChatGpt
+Online Music and Concert Experience Platform,The system should filter by using the types of music that users want to offer concerts and activity search features.,Functional,ChatGpt
+Online Music and Concert Experience Platform,A chat and comment feature should be provided where users can interact with artists while watching live concerts.,Functional,ChatGpt
+Online Music and Concert Experience Platform,The system should provide a tracking system in which users can follow favorite artists or types and receive notifications.,Functional,ChatGpt
+Online Music and Concert Experience Platform,A ticket purchase integration should be offered to users' concert tickets online.,Functional,ChatGpt
+Online Music and Concert Experience Platform,The system should provide an archive feature where users can watch the records of past concerts,Functional,ChatGpt
+Online Music and Concert Experience Platform,An artist and event information bank should be provided where users can get detailed information about concerts and examine the artist profiles.,Functional,ChatGpt
+Online Music and Concert Experience Platform,The system should offer a sharing integration that will make it easier for users to share their concert experiences on social media platforms.,Functional,ChatGpt
+Online Music and Concert Experience Platform,"In order for users to experience interactive experiences in concerts, artists should be organized with question-answer sessions or real-time voting.",Functional,ChatGpt
+Online Music and Concert Experience Platform,The system should enrich its experiences by offering special concert suggestions and personalized activity suggestions to users.,Functional,ChatGpt
+Online Music and Concert Experience Platform,The system must storage user data safely and comply with privacy standards.,Nonfunctional,ChatGpt
+Online Music and Concert Experience Platform,Software should be easily available with a user -friendly interface,Nonfunctional,ChatGpt
+Online Music and Concert Experience Platform,The system should provide high performance and quick response times,Nonfunctional,ChatGpt
+Online Music and Concert Experience Platform,"Software should be able to operate on different devices (web, mobile)",Nonfunctional,ChatGpt
+Online Music and Concert Experience Platform,The system should be able to work stable even at low internet connection speeds.,Nonfunctional,ChatGpt
+Online Music and Concert Experience Platform,Software should appeal to a wide audience by providing multiple language support.,Nonfunctional,ChatGpt
+Online Music and Concert Experience Platform,A strong authentication system should be provided for users' account security,Nonfunctional,ChatGpt
+Online Music and Concert Experience Platform,The system should be scaled and can be easily adapted to increasing user demands.,Nonfunctional,ChatGpt
+Online Music and Concert Experience Platform,User data should be regularly backup and stored safely,Nonfunctional,ChatGpt
+Online Music and Concert Experience Platform,The software should be updated regularly and compatible with technological progress,Nonfunctional,ChatGpt
